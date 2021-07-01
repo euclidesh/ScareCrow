@@ -1,9 +1,9 @@
 package main
 
 import (
-	"ScareCrow/Cryptor"
-	"ScareCrow/Loader"
-	"ScareCrow/limelighter"
+	"Github.com/euclidesh/ScareCrow/Cryptor"
+	"Github.com/euclidesh/ScareCrow/Loader"
+	"Github.com/euclidesh/ScareCrow/limelighter"
 	"bytes"
 	"crypto/aes"
 	"crypto/cipher"
