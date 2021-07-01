@@ -1,4 +1,4 @@
-module github.com/euclidesh/ScareCrow
+module github.com/euclidesh/ScareCrow1
 
 go 1.14
 
